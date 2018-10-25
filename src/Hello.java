@@ -7,7 +7,7 @@ public class Hello {
 		System.out.println("217744957 - This line was added by Jordan Angeles.");
 		System.out.println("217785543 - This line was added by Brendon Wilson.");
 		System.out.println("217900762 - This line was added by Jeremy Smart.");
-		System.out.println("216669961 - This line was added by Jian Li.");
+		System.out.println("216669961 - This line was added by Jian Lie.");
 
 	}
 }
